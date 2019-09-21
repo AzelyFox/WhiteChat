@@ -1,0 +1,82 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string name="app_name">WHITECHAT</string>
+    <string name="app_error_json">JSON ERROR</string>
+    <string name="app_unknown_error">UNKNOWN ERROR</string>
+
+    <string name="footer_social">SOCIAL</string>
+    <string name="footer_room">ROOM</string>
+    <string name="footer_setting">SETTING</string>
+
+    <string name="splash_login">LOGIN</string>
+    <string name="splash_login_hint_id">INPUT ID</string>
+    <string name="splash_login_hint_pw">INPUT PASSWORD</string>
+    <string name="splash_login_register">Click here to create an account</string>
+
+    <string name="splash_register">REGISTER</string>
+    <string name="splash_register_hint_id">INPUT ID</string>
+    <string name="splash_register_hint_pw">INPUT PASSWORD</string>
+    <string name="splash_register_hint_pw_confirm">CONFIRM PASSWORD</string>
+    <string name="splash_register_hint_nickname">INPUT NICKNAME</string>
+    <string name="splash_register_login">Already have an account, Login</string>
+
+    <string name="splash_message_login_failed_input_id">Please Input ID</string>
+    <string name="splash_message_login_failed_input_password">Please Input Password</string>
+    <string name="splash_message_login_failed_account">No Account with given ID</string>
+    <string name="splash_message_login_failed_password_incorrect">Password Incorrect</string>
+    <string name="splash_message_login_failed_block">You are Blocked</string>
+    <string name="splash_message_login_unknown">ERROR</string>
+    <string name="splash_message_register_success">Register Success!</string>
+    <string name="splash_message_register_failed_input_id">Please Input ID</string>
+    <string name="splash_message_register_failed_input_id_short">ID is too short</string>
+    <string name="splash_message_register_failed_input_id_long">ID is too long</string>
+    <string name="splash_message_register_failed_input_password">Please Input Password</string>
+    <string name="splash_message_register_failed_input_password_short">Password is too short</string>
+    <string name="splash_message_register_failed_input_password_long">Password is too long</string>
+    <string name="splash_message_register_failed_input_password2">Please Input Confirm Password</string>
+    <string name="splash_message_register_failed_input_nickname">Please Input Nickname</string>
+    <string name="splash_message_register_failed_input_nickname_short">Nickname is too short</string>
+    <string name="splash_message_register_failed_input_nickname_long">Nickname is too long</string>
+    <string name="splash_message_register_failed_account">Account exists with given ID</string>
+    <string name="splash_message_register_failed_password_match">Password do not Match</string>
+    <string name="splash_message_register_unknown">ERROR</string>
+
+    <string name="main_header_since">SINCE</string>
+
+    <string name="social_add_friend">ADD FRIEND</string>
+    <string name="social_add_friend_content">Input Friend ID</string>
+    <string name="social_relation_result_0">is no longer your friend</string>
+    <string name="social_relation_result_1">is now your friend</string>
+
+    <string name="room_create">Make Room</string>
+    <string name="room_create_content">Input Room Title</string>
+    <string name="room_join">Join Room</string>
+    <string name="room_join_content">Input Room Index</string>
+    <string name="room_dialog_hint_title">Room Title</string>
+    <string name="room_dialog_hint_index">Room Index</string>
+    <string name="room_dialog_hint_password">Room Password (or blank)</string>
+    <string name="room_create_success">Room Created</string>
+    <string name="room_join_success">Room Joined</string>
+    <string name="room_participants">participants</string>
+
+    <string name="chatting_send">SEND</string>
+    <string name="chatting_index">Room #</string>
+    <string name="chatting_leave">Leave</string>
+    <string name="chatting_leave_success">You Leaved Room #</string>
+
+    <string name="setting_notification_foreground">Background Notification</string>
+    <string name="setting_notification_background">Background Notification</string>
+    <string name="setting_logout">Logout</string>
+    <string name="setting_withdraw">Withdraw</string>
+    <string name="setting_opensource">Open Source License</string>
+    <string name="setting_withdraw_dialog">Withdraw</string>
+    <string name="setting_withdraw_dialog_content">Are you sure?\nTo confirm, Input following fields</string>
+    <string name="setting_withdraw_dialog_noinput">Input fields correctly</string>
+    <string name="setting_withdraw_dialog_failed_id">ID do not match</string>
+    <string name="setting_withdraw_dialog_hint_id">your ID</string>
+    <string name="setting_withdraw_dialog_hint_pw">your Password</string>
+    <string name="setting_withdraw_success">Good bye :)</string>
+
+</resources>
