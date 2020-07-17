@@ -1,5 +1,30 @@
-# WhiteChat
+<h1 align="center">
+  <img src="logo.png" alt="WhiteChat" width="240">
+  <br>
+  <p>WhiteChat</p>
+</h1>
+
+<p align="center">
+    <a href="#license">
+        <img src="https://img.shields.io/github/license/LIMECAKE/WhiteChat?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/WhiteChat/releases">
+        <img src="https://img.shields.io/github/v/release/LIMECAKE/WhiteChat?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/WhiteChat/wiki/API">
+        <img src="https://img.shields.io/badge/API-WIKI-green?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/WhiteChat/raw/master/Project%20Report.docx">
+        <img src="https://img.shields.io/badge/DOCS-DOWNLOAD-blue?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/WhiteChat/issues">
+        <img src="https://img.shields.io/badge/SUPPORT-END-black?style=flat-square" />
+    </a>
+</p>
+
+<p align="center">
 A lightweight node.js +socket.io based chatting platform.
+</p>
 
 ## API Wiki
 
@@ -48,10 +73,5 @@ A lightweight node.js +socket.io based chatting platform.
 <img src="https://user-images.githubusercontent.com/8467374/79946046-28adb180-84aa-11ea-8d2c-59b00df1f1d6.png" width="20%"></img>
 </div>
 
-
-## license
-[MIT License](https://github.com/LIMECAKE/WhiteChat/blob/master/LICENSE)
-
-## disclaimer
-- does **not** contains password hash encrypting
-- does **not** contains security models
+## License
+[MIT](LICENSE) © 2020 LimeCake <limecake23@gmail.com>
